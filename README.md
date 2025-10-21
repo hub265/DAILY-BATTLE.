@@ -78,7 +78,7 @@ footer {
 </head>  
 <body>    <div class="logo">  
     <img src="https://github.com/user-attachments/assets/348f763d-f062-41fe-855a-" alt="DAILY BATTLE Logo">  
-  </div>    <h1>DAILY BATTLE</h1>  
+  >  
   <p>Join India's Best Free Fire Tournament • Compete Daily, Win Cash Instantly 💥</p>  <a href="your-download-link-here" class="download-btn">⚔ Download App (APK)</a>
 
   <div class="feature">  
